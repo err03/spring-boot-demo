@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\pojo\Employee.class
+com\example\demo\pojo\Department.class
+com\example\demo\config\MyMvcConfig.class
+com\example\demo\config\LoginHandlerInterceptor.class
+com\example\demo\controller\EmployeeController.class
+com\example\demo\dao\DepartmentDao.class
+com\example\demo\dao\EmployeeDao.class
+com\example\demo\controller\LoginController.class
+com\example\demo\config\MyLocaleResolver.class
