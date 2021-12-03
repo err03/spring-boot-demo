@@ -1,0 +1,16 @@
+spring:
+  mvc:
+    favicon:
+      enabled: false
+  thymeleaf:
+    cache: false
+  messages:
+    basename: i18n.login
+  datasource:
+    username: root
+    password: 123
+    url: jdbc:mysql://localhost:3306/
+
+
+
+
